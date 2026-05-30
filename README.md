@@ -92,14 +92,10 @@ Rede:
 - Sepolia
 
 Contrato:
-- endereço aqui
-
-Explorer:
-- link etherscan
+- (https://sepolia.etherscan.io/tx/0x7ceeb9db949f67fadf416f7c17786b17793cc7239ede59b4db82db66f88e28a1)
 
 Hash deploy:
-- hash aqui
-
+- 0x7ceeb9db949f67fadf416f7c17786b17793cc7239ede59b4db82db66f88e28a1
 ---
 
 # Demonstração
