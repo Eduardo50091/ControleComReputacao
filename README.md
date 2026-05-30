@@ -1,6 +1,6 @@
 # ControleComReputacao
 Um sistema que tenta diminuir um grande problema dos estoques hoje, a confiança do operador. Esse sistema visa diminuir problemas envolvendo má conduta.
-# TrustChain - Sistema de Reputação e Controle de Estoque On-Chain
+# ControleComReputacao - Sistema de Reputação e Controle de Estoque On-Chain
 
 ## Objetivo
 
